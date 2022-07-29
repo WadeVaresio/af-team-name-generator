@@ -39,7 +39,7 @@ def compute(name, method, top_n, recurse, puns=[]):
   # stores top pun matches
   ranking = []
 
-  with open('terms.txt', 'r') as f:
+  with open('./terms.txt', 'r') as f:
     # all terms
     terms = [term.lower() for term in f]
 
