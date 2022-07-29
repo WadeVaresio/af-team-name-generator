@@ -8,7 +8,8 @@ const SearchField = () => {
     const [puns, setPuns] = useState();
 
     const getResults = () => {
-        const url = `/generate/non_recursive?input=${name}`;
+        // const url = `/generate/non_recursive?input=${name}`;
+        const url = `https://af-team-name-generator-backend.herokuapp.com/generate/non_recursive?input=${name}`;
 
         fetch(url).then((response) => {
             return response.json();
