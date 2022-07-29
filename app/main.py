@@ -1,4 +1,5 @@
 from flask import Flask, request
+from flask_cors import CORS, cross_origin
 from .pun import compute
 import json
 import html
@@ -7,6 +8,8 @@ import random
 
 app = Flask(__name__)
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
+cors = CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
 
 @app.after_request
 def add_header(r):
@@ -21,12 +24,14 @@ def add_header(r):
     return r
 
 @app.route("/generate/non_recursive")
+@cross_origin()
 def get_puns():
     user_input = request.args.get('input')
 
     return jsonify(compute(user_input.split(), 'lev', 10, False, puns=[]))
 
 @app.route("/random_name")
+@cross_origin()
 def get_random_name():
     with open('./scrape-data/musicians.txt') as f:
         data = f.readlines()

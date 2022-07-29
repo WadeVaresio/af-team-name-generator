@@ -9,6 +9,7 @@ gunicorn = "*"
 silabeador = "*"
 pyphonetics = "*"
 spacy = "*"
+flask-cors = "*"
 
 [dev-packages]
 
