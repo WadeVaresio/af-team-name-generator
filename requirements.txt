@@ -3,3 +3,4 @@ python-Levenshtein
 beautifulsoup4
 spacy
 flask
+silabeador
