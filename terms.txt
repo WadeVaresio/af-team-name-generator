@@ -1,0 +1,466 @@
+Abstraction
+Active Record
+Agile 
+AJAX
+Algorithm
+Angular.js
+Apache
+API
+AI
+Argument
+Arithmetic
+Array
+ASCII  
+Assignment
+Async
+AR
+Autonomous
+Back End
+Binary
+Bit
+Printf
+Boolean
+Bootstrap
+Bug
+Build
+Byte
+C++
+Call
+Camel Case
+Char
+Class
+Click
+Cloud
+Code
+Code Review
+Coding
+Command
+Command-line
+Compilation
+Compiler
+Computer Science
+Constants
+CSS
+Cybersecurity
+Data
+Data Structures
+Database
+Debugging
+Declaration
+Define
+Deployment
+DNS
+Drop
+DRY
+Else
+Event
+Exception
+Expression
+Error
+Flask
+For Loop
+Framework
+Front End
+Full Stack
+Function
+Git
+Hardcode
+HTML
+HTTP 
+Request
+Inheritance
+Input
+Internet
+IP Address
+Java
+JavaScript
+JSON
+Linter
+Linux
+Local
+Loop
+ML
+MVC
+MySQL
+Node.js
+Null
+OOP
+Objects
+Open-Source 
+Operator
+Output
+Packets
+Pair Programming
+Parameter
+Pixel
+Pointer
+Program
+Programming
+Python
+React
+REST
+Ruby
+Ruby on Rails
+Runtime
+Scripts
+Search
+Server
+Source Code
+Sprint
+SQL
+Stack
+Syntax
+Terminal
+Training
+URL
+Usability Testing
+UX
+UI
+Variable
+Website
+While Loop
+Predicate
+Polymorphism
+Instance
+Enumerable
+Method
+Module
+Global
+Thread
+Cookie
+Gem
+Exception
+Lambda
+REPL
+Nil
+Hash
+Truthy
+Meta
+Metaprogramming
+Version control
+Unless
+Case
+Yield
+Return
+Break
+Raise
+Property
+APM
+Engine
+API
+Resource
+Tenant
+Migration
+Bundle
+Rails
+Merge
+Rebase
+Master
+Slack
+QA
+Trello
+Standup
+Techtalk
+Hack
+Mac
+Cache
+Mega
+RAM
+Upload
+Download
+CPU
+USB
+Email
+Software
+Program
+Disk
+Rental
+Subsidy
+Affordable housing
+Agent
+Apartment
+Broker
+Condo
+Duplex
+Equity
+Escrow
+Eviction
+HOA
+Housing
+HVAC
+Income
+Interest
+Investment
+Landlord
+Insurance
+Lease
+Term
+Renewal
+LITC
+Market
+Rate
+Mortgage
+Principal
+Inspection
+Manager
+Profit
+Real estate
+Realtor
+Rent
+Rent roll
+Rental
+Sales
+Section8
+SFH
+Subsidy
+Townhouse
+Turnkey
+React
+Javascript
+Adaptive
+Backend
+Browser
+Deployment
+Documentation
+Domain
+Framework
+Mobile
+Plugin
+Responsive
+Sitemap
+SSL
+Web
+Wireframe
+Pay
+demo
+modern
+solution
+business
+real estate
+unit
+integration
+stack
+marketplace
+experimental
+proptech
+tech
+market
+residential
+resident 
+accounting
+reporting
+maintenance
+operations
+leasing
+growth
+team
+outmigration
+trend
+expert
+performance
+insight
+online
+payment
+automated
+corporate
+flexible
+smart bill entry
+utility
+mobile
+work order
+search
+universal
+revenue
+homeowner
+commercial
+investor
+capital
+pricing
+customer-focused
+billable
+model
+payments
+Rails
+Runtime
+sanitizer
+gears 
+pubsub
+remote
+job 
+irb 
+jquery 
+grape 
+spraypaint
+typescript
+javascript 
+react 
+rest
+graphql
+json 
+github 
+git 
+property 
+rake 
+debug 
+passenger 
+rubocop
+spring 
+exemplar 
+secrets 
+circleci 
+blob
+branch
+cache
+checkout 
+cherry-pick 
+clean 
+commit 
+detached 
+HEAD 
+directory 
+fast-forward 
+merge 
+fetch 
+file 
+hash 
+ref 
+hook 
+index 
+master 
+object 
+identifier 
+type
+origin 
+parent 
+pull 
+push 
+rebase 
+reflog 
+repo 
+repository 
+tree 
+upstream 
+rack 
+account management
+accounting domain
+affordable housing
+auditing
+bulk invoicing 
+bulk journal entry
+bulk txn 
+cam 
+communication 
+core 
+devices 
+im 
+gl account 
+inspection 
+analytics 
+mailing 
+lisa 
+metrics 
+onboarding 
+owner vendor 
+portfolio 
+property models
+revenue 
+saffron 
+tenancy 
+wego bills 
+root
+crud 
+endpoint 
+payload 
+key
+lifecycle 
+request 
+security 
+ddos 
+devops 
+microservices 
+production 
+soap 
+webhook 
+controller 
+migration 
+model 
+resource 
+routes 
+scaffold 
+view 
+test 
+san diego 
+santa barbara 
+appfolio 
+appfolian 
+backpropagation
+batch norm
+neural network
+clustering
+bag of words
+DataFrame
+dataset
+deep learning
+deep neural network
+DNN
+softmax
+GAN
+gradient boosting
+gradient descent
+graph
+greedy
+hash
+Keras
+k-means
+support vector machine
+loss function
+regularization
+lambda
+regression
+markov model
+markov
+matplotlib
+scipy
+pandas
+matrix
+MNIST
+classification
+NaN
+neural network
+TensorFlow
+one hot encoding
+decision tree
+random forest
+ReLU
+recurrent neural network
+RNN
+scikit
+sigmoid
+bundle 
+m1 
+apple 
+copernicus 
+frontend 
+it 
+devqa 
+feedback 
+hub 
+APM 
+engineer 
+software 
+magneto 
+brighton 
+curie 
+redwood 
+badlands 
+komodo 
+ada 
+camden 
+turing 
+goodall
+bletchley
+stirling
+ceres
+bitly
+tinyurl
+load
