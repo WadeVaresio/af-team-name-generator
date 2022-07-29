@@ -89,7 +89,7 @@ def compute(name, method, top_n, recurse, puns=[]):
 
 
 # load scorer
-nlp = spacy.load('en_core_web_md')
+# nlp = spacy.load('en_core_web_md')
 
 if __name__ == "__main__":
   scorer, top_n, recurse = argv[1], int(argv[2]), argv[3]

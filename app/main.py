@@ -1,5 +1,5 @@
 from flask import Flask, request
-from pun import compute
+from .pun import compute
 import json
 import html
 from flask.json import jsonify
