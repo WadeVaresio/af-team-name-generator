@@ -1,7 +1,6 @@
 import heapq
 import silabeador as sil
 import spacy
-import en_core_web_md
 from pyphonetics import RefinedSoundex
 from sys import argv
 
@@ -90,8 +89,8 @@ def compute(name, method, top_n, recurse, puns=[]):
 
 
 # load scorer
-#nlp = spacy.load('en_core_web_md')
-nlp = en_core_web_md.load()
+nlp = spacy.load('en_core_web_md')
+#nlp = en_core_web_md.load()
 
 if __name__ == "__main__":
   scorer, top_n, recurse = argv[1], int(argv[2]), argv[3]
