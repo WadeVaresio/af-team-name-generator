@@ -89,11 +89,11 @@ def compute(name, method, top_n, recurse, puns=[]):
 
 
 # load scorer
-try:
-	nlp = spacy.load('en_core_web_md')
-except:
-	spacy.cli.download('en_core_web_md')
-	nlp = spacy.load('en_core_web_md')
+#try:
+#	nlp = spacy.load('en_core_web_md')
+#except:
+#	spacy.cli.download('en_core_web_md')
+#	nlp = spacy.load('en_core_web_md')
 
 #nlp = spacy.load('en_core_web_md')
 #nlp = en_core_web_md.load()
